@@ -1,3 +1,3 @@
 # Discord bot
 
-Discord bot connected with rasa bot framework
+Sample Discord bot connected to ChatBot created with Rasa framework
